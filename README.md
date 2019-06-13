@@ -39,13 +39,13 @@ Hvis det viser sig at der jævnligt og systematisk foregår ulovligheder på lan
 
 Sidst, men ikke mindst, bliver vores undersøgelse offentliggjort til pressen såfremt vi modtager tilstrækkeligt med dokumentation (med undtagelse af de personer der ikke ønsker dette).
 
-## Det med småt{#det-med-smaat}
+## Det med småt {#det-med-smaat}
 
 Formålet med denne undersøgelse er ikke at drive hetz på de ansatte på jobcentrene, men at komme til bunds i hvad det er der foregår. De ansatte på jobcentrene får løn via de penge vi alle sammen betaler i skat, hvorfor det er strengt nødvendigt at vi som borgere modtager den service vi har krav på, uden at der bliver begået lovovertrædelser eller systematisk undertrykkelse af vore rettigheder.
 
 Vi har det indtryk at ansatte på jobcentrene måske ikke selv er klar over når de bryder loven, men blot handler som de har fået besked på. Dette er imidlertid ikke en undskyldning da alle borgere i Danmark er underlagt Straffeloven, uanset om man har kendskab til loven eller ej, og når man tager et alvorligt job som sagsbehandler på et jobcenter, hvor man ofte har at gøre med syge og udsatte mennesker, så er det af afgørende vigtighed at man ikke bryder loven, men derimod rapportere om disse forhold og vedholdent aktivt siger fra overfor ulovlighederne.
 
-## Til samtlige sagsbehandlere på landets jobcentre{#til-sagsbehandlerne}
+## Til samtlige sagsbehandlere på landets jobcentre {#til-sagsbehandlerne}
 
 Såfremt du er bekendt med at der systematisk begår ulovligheder på din arbejdsplads i behandlingen af borgernes sager, kan du kontante os helt anonymt som [whistle blower](https://da.wikipedia.org/wiki/Whistleblower) og fortælle os om dine oplevelser. Dette vil hjælpe os med at sammenkæde de rapporter vi modtager med de enkelte jobcentre, og det vil hjælpe os til bedre at få overblik over hvad der foregår de enkelte steder.
 
@@ -55,11 +55,11 @@ Som offentlig ansat er man bl.a. underlagt følgende relevante paragraffer i [St
 - § 156. Når nogen, som virker i offentlig tjeneste eller hverv, nægter eller undlader at opfylde pligt, som tjenesten eller hvervet medfører, eller at efterkomme lovlig tjenstlig befaling, straffes han med bøde eller fængsel indtil 4 måneder. Uden for foranstående bestemmelse falder hverv, hvis udførelse hviler på offentlige valg.
 - § 157. Når nogen, som virker i offentlig tjeneste eller hverv, gør sig skyldig i grov eller oftere gentagen forsømmelse eller skødesløshed i tjenestens eller hvervets udførelse eller i overholdelsen af de pligter, som tjenesten eller hvervet medfører, straffes den pågældende med bøde eller fængsel indtil 4 måneder. Uden for foranstående bestemmelse falder hverv, hvis udførelse hviler på offentlige valg
 
-## Hvem er vi?{#hvem-er-vi}
+## Hvem er vi? {#hvem-er-vi}
 
 Vi er en støt stigende gruppe af anonyme borgere i Danmark der frivilligt er gået sammen for at forsøge at kortlægge ovenstående problemstillinger. Enkelte af os har selv sager kørende på landets jobcentre hvor vi har oplevet ulovligheder. Andre af os arbejder til dagligt i forskellige virksomheder. Men fælles for os alle er at vi på en eller anden måde har oplevet syge familiemedlemmer, venner eller bekendte blive meget mere syge af den behandling de modtager på jobcentrene! Og dette er **ikke** længere i orden!
 
-## Status på projektet{#status}
+## Status på projektet {#status}
 
 ### 13.06.2019
 
