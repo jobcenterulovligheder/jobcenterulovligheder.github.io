@@ -22,7 +22,7 @@ Ikke alene er det ganske alvorligt hvis ansatte på et jobcenter begår systemat
 
 **Hvis du har en sag kørende på et jobcenter hvor der er blevet handlet ulovligt i din sag indenfor de seneste 5 år, vil vi meget gerne høre fra dig!**
 
-Det du skal gøre er følgende:
+Det du skal gøre, er følgende:
 
 - Find dokumentationen på samtlige lovovertrædelser frem.
 - Send os en email på [jobcenterulovligheder@protonmail.com](jobcenterulovligheder@protonmail) og vedhæft dokumentationen.
